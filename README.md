@@ -19,10 +19,30 @@ Para este taller es necesario tener una versión de R igual o superior a 3.6 y t
 ### Sesión 1
 
 **Los datos**
-(próximamente)
+
+Parte 1
+
+```R
+paises <- datos::paises 
+
+telefonos <- https://raw.githubusercontent.com/rladieschile/taller-regex-2021/main/datos/telefonos.csv 
+```
+
+Parte 2
+
+```R
+peliculas <- read_csv("https://raw.githubusercontent.com/cienciadedatos/datos-de-miercoles/master/datos/2020/2020-02-19/ranking_imdb.csv")
+
+pinguinos <- datos::pinguinos
+
+animales <- read_csv("https://raw.githubusercontent.com/rladieschile/taller-regex-2021/main/datos/animales.csv")
+```
 
 **El código**
-(próximamente)
+
+[Parte 1](https://bit.ly/taller-regex-1-codigo-1)
+
+[Parte 2](https://bit.ly/taller-regex-1-codigo-2)
 
 **Video**
 (próximamente)
