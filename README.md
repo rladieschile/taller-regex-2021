@@ -50,10 +50,42 @@ Por el momento el video está disponible en [Dropbox](https://www.dropbox.com/s/
 ### Sesión 2
 
 **Los datos**
+
+Parte 1
+
+Archivos en https://github.com/rladieschile/taller-regex-2021. Si quieres seguir el ejemplo en vivo: 
+
+Apretar el boton verde que dice "Code" para clonar
+
+Descargar el repositorio completo en ZIP ("Download ZIP")
+
+Descomprimir y abrir el archivo .Rproj
+
+También usaremos el archivo de conexiones que se encuentra en:
+
+https://raw.githubusercontent.com/sporella/30daymap/master/data/conexiones_internet_fija.csv
+
+Parte 2
+
 (próximamente)
 
 **El código**
-(próximamente)
+
+[Parte 1](https://bit.ly/taller-regex-2-codigo-1)
+
+[Parte 2](https://bit.ly/taller-regex-2-codigo-2)
 
 **Video**
 (próximamente)
+
+**Material complementario**
+
+[Cheatsheet Regex](https://rstudio.com/wp-content/uploads/2016/09/RegExCheatsheet.pdf): guía de referencia de expresiones regulares.
+
+[Cheatsheet {stringr}](https://github.com/rstudio/cheatsheets/blob/master/strings.pdf): guía de referencia del paquete {stringr}
+
+[Nombrar cosas](https://sporella.github.io/nombrar_cosas/#1): presentación Stephanie Orellana día 2.
+
+[Naming Things](http://www2.stat.duke.edu/~rcs46/lectures_2015/01-markdown-git/slides/naming-slides/naming-slides.pdf): presentación de Jenny Bryan
+
+[Funciones pivotantes](https://sporella.github.io/pivot/#1) Breve presentación para explicar lo básico.
