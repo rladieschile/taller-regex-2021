@@ -45,7 +45,8 @@ animales <- read_csv("https://raw.githubusercontent.com/rladieschile/taller-rege
 [Parte 2](https://bit.ly/taller-regex-1-codigo-2)
 
 **Video**
-Por el momento el video está disponible en [Dropbox](https://www.dropbox.com/s/2vitezdgv8oll83/regex-parte1.mp4?dl=0). Pronto lo subiremos a Vimeo. 
+
+Por el momento el video está disponible en [Dropbox](https://www.dropbox.com/s/2vitezdgv8oll83/regex-parte1.mp4?dl=0). Pronto lo subiremos a Vimeo. Ojo que hay que descargarlo para poder verlo completo. 
 
 ### Sesión 2
 
@@ -76,7 +77,8 @@ Parte 2
 [Parte 2](https://bit.ly/taller-regex-2-codigo-2)
 
 **Video**
-(próximamente)
+
+Por el momento está disponible [en este enlace](https://puc.zoom.us/rec/share/sYP4elI8LUf3rm1EcLjRJTtBigAu1liytONMDzI4J8K84dyXrUe9XW37bSoIKgz0.2ZpElFH2E3HmzFGK?startTime=1613768514000). Pronto lo subiremos a Vimeo. 
 
 **Material complementario**
 
